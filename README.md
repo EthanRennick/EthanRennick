@@ -1,16 +1,16 @@
 ### Hi there, I'm Ethan Rennick 👋
 I am a third year Games Development student at the Institute of Technology, Carlow. I enjoy Web Development, making games and studying the arts in my free time.
 
-### Languages I know or have experience in: 
+## Languages I know or have experience in: 
 `C++` `C#` `HTML` `CSS` `JavaScript` `Python` `Assembly` 
 
 
-### IDE, Engines, Source Control & More
+## IDE, Engines, Source Control & More
 
 `VS Code` `Visual Studio 2019` `Jupyter Notebook` `Easy68k` `Unity` `Github` `Paint.net` `Blender` `OBS`
 
 
-### Get in touch:
+## Get in touch:
  :mailbox: Email: ethanrennick@hotmail.co.uk \ <br>
  :computer: My site: https://ethanrennick.com/
  
