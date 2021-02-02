@@ -1,4 +1,4 @@
-### Hi there, I'm Ethan Rennick 👋
+## Hi there, I'm Ethan Rennick 👋
 I am a third year Games Development student at the Institute of Technology, Carlow. I enjoy Web Development, making games and studying the arts in my free time.
 
 ## Languages I know or have experience in: 
@@ -12,7 +12,7 @@ I am a third year Games Development student at the Institute of Technology, Carl
 
 ## Get in touch:
  :mailbox: Email: ethanrennick@hotmail.co.uk \ <br>
- :computer: My site: https://ethanrennick.com/
+ :computer: My site: https://ethanrennick.com/ <br>
  
  [![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=EthanRennick)](https://github.com/anuraghazra/github-readme-stats)
  
