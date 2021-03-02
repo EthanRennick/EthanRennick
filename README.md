@@ -7,7 +7,7 @@ I am a third year Games Development student at the Institute of Technology, Carl
 
 ## IDE, Engines, Source Control & More
 
-`VS Code` `Visual Studio 2019` `Jupyter Notebook` `Easy68k` `Unity` `Github` `Paint.net` `Blender` `OBS`
+`VS Code` `Visual Studio 2019` `Jupyter Notebook` `Easy68k` `Unity` `Github` `Paint.net` `Blender` `OBS` `Anvil` `Pandas`
 
 
 ## Get in touch:
