@@ -1,8 +1,9 @@
 ## Hi there, I'm Ethan Rennick 👋
-I am a third year Games Development student at the Institute of Technology, Carlow. I enjoy Web Development, making games and studying the arts in my free time.
+I am a third year Games Development student at the Institute of Technology, Carlow. I enjoy Web Development, making games and studying the arts in my free time. I'm currently employed at CBE in the R&D department for work experience, and hopefully for a long term commitment.
 
 ## Languages I know or have experience in: 
-`C++` `C#` `HTML` `CSS` `JavaScript` `Python` `Assembly` 
+During college I have studied languages in depth and in general. I have mainly coded in C++, but I am familiar with several others.
+`C++` `C#` `HTML` `CSS` `JavaScript` `Python` `Assembly` `SQL`
 
 
 ## IDE, Engines, Source Control & More
