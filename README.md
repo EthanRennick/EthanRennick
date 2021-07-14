@@ -7,7 +7,7 @@ During college I have studied languages in depth and in general. I have mainly c
 `C++` `C#` `HTML` `CSS` `JavaScript` `Python` `Assembly` `SQL` `. NET Core` `RazorPage`
 
 ## IDE, Engines, Source Control & More
-`VS Code` `Visual Studio 2019` `Jupyter Notebook` `Easy68k` `Unity` `Github` `Paint.net` `Blender` `OBS` `Anvil` `Pandas` `Ajax` `Highcharts` 
+`VS Code` `Visual Studio 2019` `Jupyter Notebook` `Easy68k` `Unity` `Github` `Paint.net` `Blender` `OBS` `Anvil` `Pandas` `Ajax` `Highcharts` `Bootstrap`
 
 ## Interested in
 `Web Development` `Software Development` `Games Development` `Classics` `Video Games` `Literature` `Guitar & Music` `History` 
