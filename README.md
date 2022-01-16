@@ -1,16 +1,16 @@
 ## Hi there, I'm Ethan Rennick 👋
-I am a third year Games Development student at the Institute of Technology, Carlow. I enjoy Web Development, making games and studying the arts in my free time. I'm currently employed at CBE in the R&D department for work experience, and hopefully for a long term commitment.
+I am a Games Development graduate at the Institute of Technology, Carlow. I'm currently employed at CBE ltd. I am in the R&D department as an Executive in Retail Apps. I enjoy Web Development, making and playing games and studying the arts in my free time. 
 
 ## Languages I know or have experience in
 
 During college I have studied languages in depth and in general. I have mainly coded in C++, but I am familiar with several others.
-`C++` `C#` `HTML` `CSS` `JavaScript` `Python` `Assembly` `SQL` `. NET Core` `RazorPage`
+`C++` `C#` `HTML` `CSS` `JavaScript` `Python` `Assembly` `SQL` `. NET` `RazorPage`
 
 ## IDE, Engines, Source Control & More
 `VS Code` `Visual Studio 2019` `Jupyter Notebook` `Easy68k` `Unity` `Github` `Paint.net` `Blender` `OBS` `Anvil` `Pandas` `Ajax` `Highcharts` `Bootstrap`
 
 ## Interested in
-`Web Development` `Software Development` `Games Development` `Classics` `Video Games` `Literature` `Guitar & Music` `History` 
+`Web Development` `Software Development` `Games Development` `Classics` `Video Games` `Literature` `Guitar & Music` `History` `Retail Apps` `Epos systems`
 
 ## Get in touch:
  :mailbox: Email: ethanrennick@hotmail.co.uk \ <br>
