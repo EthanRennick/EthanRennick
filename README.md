@@ -14,7 +14,7 @@ During college, I have studied languages in depth and in general. I have mainly 
 
 ## Get in touch:
  :mailbox: Email: ethanrennick@hotmail.co.uk \ <br>
- :computer: My site: https://ethanrennick.com/ <br>
+ :computer: My site: www.ethanrennick.com/ <br>
  
  [![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=EthanRennick)](https://github.com/anuraghazra/github-readme-stats)
  
