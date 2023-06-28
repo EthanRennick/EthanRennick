@@ -1,9 +1,9 @@
 ## Hi there, I'm Ethan Rennick 👋
-I am a Games Development graduate at the Institute of Technology, Carlow. I'm currently employed at CBE ltd. I am in the R&D department as an Executive in Retail Apps. I enjoy Web Development, making and playing games and studying the arts in my free time. 
+I am a Games Development graduate from the Institute of Technology, Carlow. I'm currently employed at CBE ltd. I am in the R&D department as an Executive in Retail Apps. I enjoy Web Development, playing games and studying the arts in my free time. 
 
 ## Languages I know or have experience in
 
-During college I have studied languages in depth and in general. I have mainly coded in C++, but I am familiar with several others.
+During college, I have studied languages in depth and in general. I have mainly coded in C++, but I am familiar with several others.
 `C++` `C#` `HTML` `CSS` `JavaScript` `Python` `Assembly` `SQL` `. NET` `RazorPage`
 
 ## IDE, Engines, Source Control & More
