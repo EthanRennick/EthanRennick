@@ -12,9 +12,6 @@ During college, I have studied languages in depth and in general. I have mainly 
 ## Interested in
 `Web Development` `Software Development` `Games Development` `Classics` `Video Games` `Literature` `Guitar & Music` `History` `Retail Apps` `Epos systems`
 
-## Get in touch:
- :mailbox: Email: ethanrennick@hotmail.co.uk \ <br>
- :computer: My site: www.ethanrennick.com/ <br>
  
  [![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=EthanRennick)](https://github.com/anuraghazra/github-readme-stats)
  
